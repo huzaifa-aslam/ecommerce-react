@@ -8,12 +8,12 @@
 //   appId: import.meta.env.VITE_FIREBASE_APP_ID
 // };
 const firebaseConfig = {
-  apiKey: "AIzaSyDwqIAFKalKORy4T0MKdH-Om5oWSqcBmoo",
-  authDomain: "e-commerce-b4804.firebaseapp.com",
-  databaseURL: "https://e-commerce-b4804-default-rtdb.firebaseio.com",
-  projectId: "e-commerce-b4804",
-  storageBucket: "e-commerce-b4804.appspot.com",
-  messagingSenderId: "1068452350053",
-  appId: "1:1068452350053:web:87a7c13a6d87a6896d1e8c",
+  apiKey: "AIzaSyDmNi_ekvF2f2XuTjTqfyHHfIFh7PgsiYk",
+  authDomain: "e-commerce-cc934.firebaseapp.com",
+  databaseURL: "https://e-commerce-cc934-default-rtdb.firebaseio.com",
+  projectId: "e-commerce-cc934",
+  storageBucket: "e-commerce-cc934.appspot.com",
+  messagingSenderId: "687572203615",
+  appId: "1:687572203615:web:ef2a7629df871c67f843ea",
 };
 export default firebaseConfig;
